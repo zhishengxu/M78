@@ -12,7 +12,6 @@ int main()
 		printf("%d\n", num2);
 	}
 
-	//xuguangqin
 
 
 	return 0;
